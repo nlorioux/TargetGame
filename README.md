@@ -9,7 +9,3 @@ The goal is to shoot the targets to get the highest possible score within a minu
 ![image](https://user-images.githubusercontent.com/57232799/199846987-b33a5cf9-4880-475c-8487-d60ce1727fd2.png)
 
 ![image](https://user-images.githubusercontent.com/57232799/199847884-c1601964-f9db-4816-a35c-b0837d08019b.png)
-
-
-
-Here is the build version of the game : 
